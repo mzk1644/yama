@@ -1,0 +1,48 @@
+div.thumbnail {
+	float: left;
+	margin: .5em 0;
+	margin-right: 10px;
+	border: 1px solid #999;
+	padding: 2px;
+}
+
+div.thumbnail a {
+	display: block;
+	float: left;
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	overflow: hidden;
+}
+
+.panel-description {
+	display: inline-block;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #b6edff;
+	width: 200px;
+	height: 120px;
+	padding-top: 0.5rem;
+	padding-bottom: 0.75rem;
+	padding-left: 0.75rem;
+	padding-right: 1rem;
+	margin-bottom: 0.5rem;
+	line-height: 0.5em;
+	background: #ecfaff;
+}
+
+span.pincimage {
+	float:left;
+}
+
+span.makername {
+	font-size: 13px;
+}
+
+span.itemname {
+	font-size: 13px;
+}
+
+p.pbutton {
+	margin: 0.15em;
+}

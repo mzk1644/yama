@@ -1,0 +1,1556 @@
+2014-05-11 12:39:02 Error: [MissingActionException] Action AppController::webroot() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'webroot',
+)
+Request URL: /yama/cake/app/webroot/
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 14:24:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/css/site.css
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-17 14:24:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/vendor/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-17 14:24:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/css/mobile-site.css
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-17 14:24:36 Error: [MissingControllerException] Controller class CssController could not be found.
+Exception Attributes: array (
+  'class' => 'CssController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/css/foundation.css
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-17 14:24:36 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-17 15:08:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/vendor/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-17 15:08:34 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-17 16:25:55 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/vendor/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-17 16:52:07 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/vendor/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-17 17:01:10 Error: [MissingActionException] Action TopController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'css',
+)
+Request URL: /yama/cake/top/css/mobile-site.css
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:01:10 Error: [MissingActionException] Action TopController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'css',
+)
+Request URL: /yama/cake/top/css/foundation.css
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:01:10 Error: [MissingActionException] Action TopController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'css',
+)
+Request URL: /yama/cake/top/css/site.css
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:01:10 Error: [MissingActionException] Action TopController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'js',
+)
+Request URL: /yama/cake/top/js/vendor/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:01:10 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/pict_men.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:01:10 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/hat1.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:01:10 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/pict_men.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:03:25 Error: [MissingActionException] Action TopController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'js',
+)
+Request URL: /yama/cake/top/js/vendor/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:03:25 Error: [MissingActionException] Action TopController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'css',
+)
+Request URL: /yama/cake/top/css/foundation.css
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:03:25 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:03:25 Error: [MissingActionException] Action TopController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'css',
+)
+Request URL: /yama/cake/top/css/mobile-site.css
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:03:25 Error: [MissingActionException] Action TopController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'css',
+)
+Request URL: /yama/cake/top/css/site.css
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:03:25 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:26:04 Error: [MissingActionException] Action TopController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'css',
+)
+Request URL: /yama/cake/top/css/foundation.css
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:26:04 Error: [MissingActionException] Action TopController::js() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'js',
+)
+Request URL: /yama/cake/top/js/vendor/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:26:04 Error: [MissingActionException] Action TopController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'css',
+)
+Request URL: /yama/cake/top/css/mobile-site.css
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:26:04 Error: [MissingActionException] Action TopController::css() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'css',
+)
+Request URL: /yama/cake/top/css/site.css
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:26:04 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 17:27:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-17 17:27:33 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-17 18:09:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-17 18:09:53 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 17:43:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 17:43:36 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 17:43:36 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 18:25:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 18:25:34 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 18:28:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 18:28:09 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 18:28:10 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 18:28:12 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 18:28:12 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 18:28:19 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 18:28:19 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 18:28:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 18:28:30 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 18:28:30 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 18:29:08 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 18:30:30 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 18:30:30 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 18:30:30 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 19:57:15 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 19:57:15 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 19:57:16 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 19:58:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 19:58:02 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 19:58:03 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 19:58:57 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 19:58:57 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 19:58:57 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:00:24 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:00:24 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:00:24 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:01:34 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:01:35 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:01:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:01:53 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:08:29 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:08:29 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:08:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:08:33 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:08:33 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:09:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:09:46 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:09:46 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:12:33 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:12:33 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:12:33 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:12:36 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:12:36 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:12:36 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:12:38 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:12:38 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:12:38 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:14:47 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:15:43 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:15:43 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:16:00 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:16:00 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:16:00 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:16:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:16:04 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:16:09 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:16:09 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:16:09 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:18:18 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:18:19 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:20:04 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:20:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 20:20:04 Error: [MissingActionException] Action TopController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/top/img/yamacolle_logo.jpg
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 20:22:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 21:20:32 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 21:23:46 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 21:23:48 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 21:23:56 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 21:36:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 21:37:40 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 23:27:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 23:29:27 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 23:29:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 23:31:03 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-24 23:31:05 Error: [MissingActionException] Action TopController::yama() could not be found.
+Exception Attributes: array (
+  'controller' => 'TopController',
+  'action' => 'yama',
+)
+Request URL: /yama/cake/top/yama/cake/Coordinate/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(TopController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-24 23:34:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:20:43 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:20:47 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:20:47 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/img/pict_men.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:20:47 Error: [MissingActionException] Action CoordinateController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CoordinateController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/Coordinate/img/hat1.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CoordinateController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-25 00:27:39 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:27:41 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:27:41 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/img/pict_men.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:27:41 Error: [MissingActionException] Action CoordinateController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CoordinateController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/Coordinate/img/hat1.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CoordinateController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-25 00:34:52 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:34:54 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:34:54 Error: [MissingActionException] Action CoordinateController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CoordinateController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/Coordinate/img/hat1.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CoordinateController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-25 00:34:54 Error: [MissingActionException] Action CoordinateController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CoordinateController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/Coordinate/img/hat1.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CoordinateController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-25 00:42:25 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:42:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/img/hat1.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:42:28 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:42:28 Error: [MissingActionException] Action CoordinateController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CoordinateController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/Coordinate/img/hat1.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CoordinateController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-25 00:42:28 Error: [MissingControllerException] Controller class ImgController could not be found.
+Exception Attributes: array (
+  'class' => 'ImgController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/img/hat1.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:42:28 Error: [MissingActionException] Action CoordinateController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CoordinateController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/Coordinate/img/hat1.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CoordinateController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-25 00:43:02 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:43:04 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:43:04 Error: [MissingActionException] Action CoordinateController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CoordinateController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/Coordinate/img/hat1.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CoordinateController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-25 00:43:04 Error: [MissingActionException] Action CoordinateController::img() could not be found.
+Exception Attributes: array (
+  'controller' => 'CoordinateController',
+  'action' => 'img',
+)
+Request URL: /yama/cake/Coordinate/img/hat1.png
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(CoordinateController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-25 00:49:42 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-25 00:49:45 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-27 00:25:06 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-27 00:25:08 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-27 00:33:53 Error: [MissingControllerException] Controller class JsController could not be found.
+Exception Attributes: array (
+  'class' => 'JsController',
+  'plugin' => NULL,
+)
+Request URL: /yama/cake/js/modernizr.js
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-05-27 23:14:54 Error: Fatal Error (1): Class 'Dm_Image_Filter_Fit' not found in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 17]
+2014-05-27 23:14:54 Error: [FatalErrorException] Class 'Dm_Image_Filter_Fit' not found
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'Dm_Image...', '/Users/mzk_mba/...', 17)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Dm_Image...', '/Users/mzk_mba/...', 17, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'Dm_Image...', '/Users/mzk_mba/...', 17, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-27 23:26:37 Error: Fatal Error (1): Class 'Dm_Image_Filter_Fit' not found in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 17]
+2014-05-27 23:26:37 Error: [FatalErrorException] Class 'Dm_Image_Filter_Fit' not found
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'Dm_Image...', '/Users/mzk_mba/...', 17)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Dm_Image...', '/Users/mzk_mba/...', 17, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'Dm_Image...', '/Users/mzk_mba/...', 17, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-28 23:42:14 Error: Fatal Error (64): require() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'SplClassLoader.class.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:') in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 17]
+2014-05-28 23:42:14 Error: [FatalErrorException] require() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'SplClassLoader.class.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:')
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'require() [<a h...', '/Users/mzk_mba/...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'require() [<a h...', '/Users/mzk_mba/...', 17, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'require() [<a h...', '/Users/mzk_mba/...', 17, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-28 23:43:09 Error: Fatal Error (64): require() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'SplClassLoader.class.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:') in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 17]
+2014-05-28 23:43:09 Error: [FatalErrorException] require() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'SplClassLoader.class.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:')
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'require() [<a h...', '/Users/mzk_mba/...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'require() [<a h...', '/Users/mzk_mba/...', 17, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'require() [<a h...', '/Users/mzk_mba/...', 17, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-28 23:44:21 Error: Fatal Error (64): require() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:') in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 17]
+2014-05-28 23:44:21 Error: [FatalErrorException] require() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:')
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'require() [<a h...', '/Users/mzk_mba/...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'require() [<a h...', '/Users/mzk_mba/...', 17, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'require() [<a h...', '/Users/mzk_mba/...', 17, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-28 23:46:56 Error: Fatal Error (64): require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:') in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 17]
+2014-05-28 23:46:56 Error: [FatalErrorException] require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:')
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'require_once() ...', '/Users/mzk_mba/...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-28 23:47:30 Error: Fatal Error (64): require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:') in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 17]
+2014-05-28 23:47:30 Error: [FatalErrorException] require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:')
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'require_once() ...', '/Users/mzk_mba/...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-28 23:49:38 Error: Fatal Error (64): require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:') in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 17]
+2014-05-28 23:49:38 Error: [FatalErrorException] require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required 'SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:')
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'require_once() ...', '/Users/mzk_mba/...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-28 23:50:45 Error: Fatal Error (64): require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/yama/cake/lib/SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:') in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 17]
+2014-05-28 23:50:45 Error: [FatalErrorException] require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/yama/cake/lib/SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:')
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'require_once() ...', '/Users/mzk_mba/...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-28 23:54:43 Error: Fatal Error (64): require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/yama/cake/lib/SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:') in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 17]
+2014-05-28 23:54:43 Error: [FatalErrorException] require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/yama/cake/lib/SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:')
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'require_once() ...', '/Users/mzk_mba/...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-28 23:57:11 Error: Fatal Error (64): require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/yama/cake/lib/SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:') in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 17]
+2014-05-28 23:57:11 Error: [FatalErrorException] require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/yama/cake/lib/SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:')
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'require_once() ...', '/Users/mzk_mba/...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-28 23:58:19 Error: Fatal Error (64): require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/yama/cake/lib/SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:') in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 17]
+2014-05-28 23:58:19 Error: [FatalErrorException] require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/yama/cake/lib/SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:')
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'require_once() ...', '/Users/mzk_mba/...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-28 23:59:30 Error: Fatal Error (64): require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/yama/cake/lib/SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:') in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 17]
+2014-05-28 23:59:30 Error: [FatalErrorException] require_once() [<a href='http://php.net/function.require'>function.require</a>]: Failed opening required '/yama/cake/lib/SplClassLoader.php' (include_path='/Users/mzk_mba/Documents/www/yama/cake/lib:.:')
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(64, 'require_once() ...', '/Users/mzk_mba/...', 17)
+#1 [internal function]: ErrorHandler::handleError(64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 64, 'require_once() ...', '/Users/mzk_mba/...', 17, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-05-29 00:04:40 Error: Fatal Error (1): Class 'Dm_Image_Filter_Fit' not found in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 18]
+2014-05-29 00:04:40 Error: [FatalErrorException] Class 'Dm_Image_Filter_Fit' not found
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'Dm_Image...', '/Users/mzk_mba/...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Dm_Image...', '/Users/mzk_mba/...', 18, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'Dm_Image...', '/Users/mzk_mba/...', 18, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-06-18 23:11:40 Error: Fatal Error (1): Class 'Dm_Image_Filter_Fit' not found in [/Users/mzk_mba/Documents/www/yama/cake/app/View/Top/index.ctp, line 18]
+2014-06-18 23:11:40 Error: [FatalErrorException] Class 'Dm_Image_Filter_Fit' not found
+Request URL: /yama/cake/top/index
+Stack Trace:
+#0 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Error/ErrorHandler.php(203): ErrorHandler::handleFatalError(1, 'Class 'Dm_Image...', '/Users/mzk_mba/...', 18)
+#1 [internal function]: ErrorHandler::handleError(1, 'Class 'Dm_Image...', '/Users/mzk_mba/...', 18, Array)
+#2 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(929): call_user_func('ErrorHandler::h...', 1, 'Class 'Dm_Image...', '/Users/mzk_mba/...', 18, Array)
+#3 /Users/mzk_mba/Documents/www/yama/cake/lib/Cake/Core/App.php(902): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
