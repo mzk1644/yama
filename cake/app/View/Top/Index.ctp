@@ -13,26 +13,7 @@
 	</div>
 	<div class="row">
 		<div class="small-4 large-4 small-centered large-centered columns">
-			<?php
-			require_once($_SERVER['DOCUMENT_ROOT'] . '/yama/lib/SplClassLoader.php');
-			$DmDirPath = $_SERVER['DOCUMENT_ROOT'] .'/yama/lib/DmImage';
-			$classLoader = new SplClassLoader(null, $DmDirPath);
-			$classLoader->register();
-			$filter = new Dm_Image_Filter_Fit(300,300);
-			$image = new Dm_Image_File($_SERVER['DOCUMENT_ROOT'] . '/yama/cake/app/webroot/img/pict_men.png');
-			$image->applyFilter($filter);
-
-			$hatImage = new Dm_Image_File($_SERVER['DOCUMENT_ROOT'] . '/yama/cake/app/webroot/img/hat1.png');
-			$hatFilter = new Dm_Image_Filter_Fit(100,100);
-			$hatImage->applyFilter($hatFilter);
-			$image->draw($hatImage,20,20);
-			?>
-		</div>
-	</div>
-	<div class="row">
-		<div class="small-4 large-4 small-centered large-centered columns">
 			<p>ヤマコレは、登山ウェアのマッチングができるサイトです</p>
-			<img src="<?=$image->toDataSchemeURI()?>" />
 		</div>
 	</div>
 	<div class="row">

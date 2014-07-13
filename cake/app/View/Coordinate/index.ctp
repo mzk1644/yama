@@ -7,9 +7,7 @@ echo $this->Html->script('modernizr.js');
 	<div class="row">
 		<div class="large-8 small-8 columns">
 			<span class="pictimage">
-			<?php
-			echo $this->Html->image('pict_men.png');
-			?>
+			<img src="<?php echo $coodinate_image_uri ?>" />
 			</span>
 		</div>
 		<div class="large-4 small-4 columns end">
