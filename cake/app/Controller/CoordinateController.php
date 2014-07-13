@@ -1,6 +1,9 @@
 <?php
 class CoordinateController extends Controller {
 
+	/*
+	** 初期表示処理
+	*/
 	public function index () {
 		$this->set('coodinate_image_uri', '/yama/cake/app/webroot/img/pict_men.png');
 		$this->render('index');
