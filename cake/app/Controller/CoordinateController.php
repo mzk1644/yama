@@ -9,6 +9,9 @@ class CoordinateController extends Controller {
 		$this->render('index');
 	}
 
+	/**
+	* 試着するボタン押下処理
+	*/
 	public function coordinate() {
 		require_once($_SERVER['DOCUMENT_ROOT'] . '/yama/lib/SplClassLoader.php');
 		$DmDirPath = $_SERVER['DOCUMENT_ROOT'] .'/yama/lib/DmImage';
