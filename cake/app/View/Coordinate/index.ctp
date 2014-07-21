@@ -18,6 +18,7 @@ echo $this->Html->script('modernizr.js');
  					<li><a href="#">帽子</a></li>
  					<li><a href="#">マフラー類</a></li>
  					<li><a href="#">アウター</a></li>
+ 					<li><a href="#">インナー</a></li>
  					<li><a href="#">ザック</a></li>
  					<li><a href="#">パンツ</a></li>
  					<li><a href="#">シューズ</a></li>
