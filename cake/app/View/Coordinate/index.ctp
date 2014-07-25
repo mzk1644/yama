@@ -13,7 +13,7 @@ echo $this->Html->script('modernizr.js');
 		<div class="large-4 small-4 columns end">
 			<div class="panel">
 				<ul class="side-nav">
-					<li><h5>アイテムを選択してください</h5></li>
+					<li><h5>アイテムを選んでください</h5></li>
 					<li class="divider"></li>
  					<li><a href="#">帽子</a></li>
  					<li><a href="#">マフラー類</a></li>
