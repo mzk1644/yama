@@ -36,7 +36,7 @@ echo $this->Html->script('modernizr.js');
 					</a>
 				</div>
 				<div class="panel-description">
-					<p><span class="makername">MILLET</span><br><span class="itemname">カラフルHAT</span></p>
+					<p><span class="makername">MILLET</span><br><span class="itemname">カラフルHAT２</span></p>
 					<p class="pbutton">
 	  					<?php
 	  					echo $this->Html->link('試着する', '/Coordinate/Coordinate', array('class' => 'button tiny radius'))
@@ -53,7 +53,7 @@ echo $this->Html->script('modernizr.js');
 					</a>
 				</div>
 				<div class="panel-description">
-					<p><span class="makername">MILLET</span><br><span class="itemname">カラフルHAT</span></p>
+					<p><span class="makername">MILLET</span><br><span class="itemname">カラフルHAT２</span></p>
 					<p class="pbutton">
 	  					<?php
 	  					echo $this->Html->link('試着する', '/Coordinate/Coordinate', array('class' => 'button tiny radius'))
@@ -70,7 +70,7 @@ echo $this->Html->script('modernizr.js');
 					</a>
 				</div>
 				<div class="panel-description">
-					<p><span class="makername">MILLET</span><br><span class="itemname">カラフルHAT</span></p>
+					<p><span class="makername">MILLET</span><br><span class="itemname">カラフルHAT２</span></p>
 					<p class="pbutton">
 	  					<?php
 	  					echo $this->Html->link('試着する', '/Coordinate/Coordinate', array('class' => 'button tiny radius'))
